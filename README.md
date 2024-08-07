@@ -5,7 +5,7 @@ Oiiii!!! Me chamo Gabriel Barbosa!
 - :computer: Freelancer;
 - IFSP Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas Ensino Médio Integrado ao Técnico de Informática  
   Fev DE 2018 dez 2021/ Status: ("Concluído");
-- UNIFAVIP  WYDEN EAD - Técnologo -> Análise e Desenvolvimento de Sistemas Fev DE 2022 - dez 2024/ Status ("Em andamento").
+- UNIFAVIP  WYDEN EAD - Técnologo -> Análise e Desenvolvimento de Sistemas Fev DE 2022 - dez 2024/ Status ("Concluido").
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
