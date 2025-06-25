@@ -1,8 +1,8 @@
 
 Oiiii!!! Me chamo Gabriel Barbosa!
 
-- 🔭 Desenvolvedor Full-stack;
-- :computer: Freelancer;
+- 🔭 Desenvolvedor Front-end;
+- :computer: Freelancer & Desenvolvedor;
 - UNIFAVIP  WYDEN EAD - Técnologo -> Análise e Desenvolvimento de Sistemas Fev DE 2022 - dez 2024/ Status ("Concluido").
 - IFSP Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas Ensino Médio Integrado ao Técnico de Informática  
   Fev DE 2018 dez 2021/ Status: ("Concluído");
