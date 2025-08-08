@@ -1,11 +1,10 @@
 
-Oiiii!!! Me chamo Gabriel Barbosa!
+Hello, welcome!
 
-- 🔭 Desenvolvedor Front-end;
-- :computer: Freelancer & Desenvolvedor;
-- UNIFAVIP  WYDEN EAD - Técnologo -> Análise e Desenvolvimento de Sistemas Fev DE 2022 - dez 2024/ Status ("Concluido").
-- IFSP Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas Ensino Médio Integrado ao Técnico de Informática  
-  Fev DE 2018 dez 2021/ Status: ("Concluído");
+- 🔭 Front-end/Creative Developer;
+- :computer: Freelancer & Developer;
+- 📕 UNIFAVIP - Systems Analysis and Development
+- 📖 IFSP - Systems Analysis and Development  
 
 
 <div style="display: inline_block"><br>
@@ -25,6 +24,8 @@ Oiiii!!! Me chamo Gabriel Barbosa!
   
   <a href = "mailto:gabrieldecarvalhu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-barbosa-372ba71b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://gabriel-barbosa-dev.vercel.app/"><img src="https://img.shields.io/badge/-Portifolio-%23333?style=for-the-badge&logoColor=black" target="_blank"></a>
+
   
 </div>
 
